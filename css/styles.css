@@ -4,6 +4,76 @@ body {
   background-color: #ffffff;
 }
 
+.banner {
+  background-color: #2e2f42;
+}
+
+h1 {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07143;
+}
+
+h2 {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11111;
+}
+
+h3 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+}
+
 a {
   text-decoration: none;
+  color: #2e2f42;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.link-2 {
+  color: #434455;
+  font-weight: 400;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #434455;
+}
+
+.link:hover,
+.link:focus {
+  color: #404bbf;
+}
+
+button {
+  color: #ffffff;
+  background-color: #4d5ae5;
+  cursor: pointer;
+}
+
+button:hover,
+button:focus {
+  background-color: #404bbf;
+}
+
+footer {
+  background-color: #2e2f42;
+}
+
+.title {
+  color: #f4f4fd;
+}
+
+.logo-nav,
+.logo-footer {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.16667;
 }
